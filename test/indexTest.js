@@ -24,7 +24,7 @@ describe('Fix the Scope', function() {
     });
   });
 
-  describe('overwriteBestCustomer()', function() {
+  describe('', function() {
     it('overwrites the best customer', function() {
       overwriteBestCustomer('maybe bob');
 
